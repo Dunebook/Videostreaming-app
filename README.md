@@ -1,8 +1,5 @@
 ## React Node Video Streaming
 
-## Clone the repo
-
-
 
 ## Setup and Start Node Server
 ``` bash
